@@ -40,7 +40,7 @@ Javascript
 
 <b> Steps to run the test: </b>
 1. In the same command prompt, type the following command to run the test 
-npm test
+<br> npm test </br>
 
 <b> Test Result </b>
 1. Test output in html format can be found at folder: mochawesome-report/mochawesome.html
