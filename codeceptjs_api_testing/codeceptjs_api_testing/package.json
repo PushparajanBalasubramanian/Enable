@@ -1,0 +1,21 @@
+{
+  "name": "codeceptjs_api_testing",
+  "version": "1.0.0",
+  "description": "CodeceptJS REST API testing using Axios and Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/codeceptjs run --steps --reporter mochawesome"
+  },
+  "author": "Pushparajan Balasubramanian",
+  "license": "NA",
+  "devDependencies": {
+    "codeceptjs": "^2.0.4",
+    "eslint": "^5.12.0",
+    "prettier": "1.15.3",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chai": "^4.2.0"
+  }
+}
