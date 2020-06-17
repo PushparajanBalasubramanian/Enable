@@ -33,7 +33,7 @@ Javascript
 1. Install Node.js https://nodejs.org/en/download/
 2. Download code repository https://github.com/PushparajanBalasubramanian/Enable.git and extract in your local folder
 3. Open Command Prompt
-4. cd to your local folder
+4. cd to Enable-master\codeceptjs_api_testing\codeceptjs_api_testing
 5. npm i mochawesome
 6. npm install 
 
